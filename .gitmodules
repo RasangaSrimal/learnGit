@@ -1,0 +1,3 @@
+[submodule "git_practical_exercises_merge_rebase_cherry_pick_amend"]
+	path = git_practical_exercises_merge_rebase_cherry_pick_amend
+	url = https://github.com/lmarcell/git_practical_exercises_merge_rebase_cherry_pick_amend.git
